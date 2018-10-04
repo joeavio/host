@@ -24,6 +24,10 @@ body {
   font-weight: bold;
 }
 
+#date {
+  font-weight: bold;
+}
+
 a:link {
   color: black;
   font-weight: bold;
