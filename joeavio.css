@@ -26,6 +26,8 @@ body {
 
 #date {
   font-weight: bold;
+  display: inline;
+  
 }
 
 a:link {
